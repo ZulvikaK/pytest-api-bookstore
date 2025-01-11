@@ -1,0 +1,2 @@
+username,login_status,token,expires,result,status
+Testing11Januari,Success,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6IlRlc3RpbmcxMUphbnVhcmkiLCJwYXNzd29yZCI6Ikt1Y2luR21ha2FuaWthbjEyIyMiLCJpYXQiOjE3MzY1NzcwMDB9.MVUwT6AbuljN_BQrJo-NP3htDEerSc34FvleePJojAg,2025-01-18T06:30:00.967Z,User authorized successfully.,Success

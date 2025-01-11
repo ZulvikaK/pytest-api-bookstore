@@ -1,0 +1,4 @@
+userID,status_code,message,username,books
+ef6c34e0-eaf7-4f58-ace9-49119396ef57,401,,,No books found
+invalid_user_id,401,,,No books found
+ef6c34e0-eaf7-4f58-ace9-49119396ef57,401,,,No books found
